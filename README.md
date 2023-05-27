@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
+![MasterHead](notion://www.notion.so/images/page-cover/nasa_ibm_type_704.jpg)
 <h1 align="center">Hello 👋, I'm Minenhle Nkosi</h1>
 <h3 align="center">A passionate Software Developer who does designing and creating software programs, integrating systems and software, training end-users, analyzing algorithms, modifying source-code, writing system instructions, debugging, maintaining operating systems, and also play chess.</h3>
 <br>
