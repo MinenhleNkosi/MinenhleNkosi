@@ -1,3 +1,5 @@
+<div><a href="https://www.linkedin.com/in/grahamthedev/"><img src="linkedin.svg" width="19.5%" height=120 alt="linkedIn Minenhle Nkosi"></a>div>
+
 ![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
 <h1 align="center">Hello 👋, I'm Minenhle Nkosi</h1>
 <h3 align="center">A passionate Software Developer who does designing and creating software programs 💯, integrating systems and software, training end-users, analyzing algorithms 📈, modifying source-code 💻, writing system instructions, debugging ❌✔️, maintaining operating systems 🔧 🔩 🔨, and also play chess 😎.</h3>
