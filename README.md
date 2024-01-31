@@ -48,10 +48,10 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" hspace="40"/> </a> 
   </kbd>
   <kbd>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" hspace="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/MinenhleNkosi/MinenhleNkosi/blob/main/5453022.webp" alt="javascript" width="60" height="60" hspace="40"/> </a> 
   </kbd>
   <kbd>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" hspace="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/MinenhleNkosi/MinenhleNkosi/blob/main/7578001-fotor-bg-remover-20240131102317.png" alt="python" width="60" height="60" hspace="40"/> </a> 
   </kbd>
 </p>
 <br>
