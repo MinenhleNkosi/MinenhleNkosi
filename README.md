@@ -3,7 +3,7 @@
 <br>
 
 <kbd>
-  <img src="https://github.com/MinenhleNkosi/MinenhleNkosi/blob/main/image_processing20211030-4633-19uq0zy.gif?raw=true" height="auto" width="1000" />
+  <img src="https://github.com/MinenhleNkosi/MinenhleNkosi/blob/main/image_processing20211030-4633-19uq0zy.gif?raw=true" height="auto" width="auto" />
 </kbd>
 
 <br>
