@@ -8,11 +8,6 @@
 
 <br>
 
-<kbd>
-  <img src="https://komarev.com/ghpvc/?username=minenhlenkosi&label=Profile%20views&color=0e75b6&style=flat" alt="minenhlenkosi" /> 
-</kbd>
-
-
 - 👨‍💻 All of my projects are available at [https://minenhlenkosi.github.io/FrontEnd/](https://minenhlenkosi.github.io/FrontEnd/)
 
 - 💬 Ask me about **Front-end, Back-end, IoT, and Machine Learning.**
@@ -21,6 +16,10 @@
 
 - ⚡ Fun fact **There are even more possible variations of chess games than there are atoms in the observable universe.**
 <br>
+
+<kbd>
+  <img src="https://komarev.com/ghpvc/?username=minenhlenkosi&label=Profile%20views&color=0e75b6&style=flat" alt="minenhlenkosi" /> 
+</kbd>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
